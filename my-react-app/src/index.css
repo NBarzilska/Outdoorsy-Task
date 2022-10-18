@@ -1,0 +1,55 @@
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.mydiv {
+  margin-top: 25px;
+}
+
+ul {
+  list-style-type: none;
+  float: left;
+  margin-right: 10px;}
+
+.topnav {
+  display: block;
+  margin-left: auto;
+  width: 50%;
+
+}
+
+/* Style the search box inside the navigation bar */
+.search {
+  float: left;
+  padding: 6px;
+  margin-top: 8px;
+  font-size: 17px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+}
+img {
+  max-width: 100%;
+  border-radius: 10%;
+}
+.image {
+  height: 150px;
+}
+.text {
+  font-size: 20px;
+  padding-left: 20px;
+ 
+}
+
+
+ul li{
+  padding: 10px;
+}
