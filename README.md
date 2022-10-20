@@ -9,7 +9,7 @@ Run application:
 - npm start
 
 
-I also planning on doing the following steps:
+I am also planning on doing the following steps:
 
 - Stretching the Search Bar field
 - Fixing the text (next to the image) to be in the center
